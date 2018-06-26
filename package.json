@@ -67,7 +67,7 @@
     "license-check": "^1.1.5",
     "nodemon": "^1.14.3",
     "nyc": "^11.4.1",
-    "pouchdb-security-helper": "^1.1.1",
+    "pouchdb-security-helper": "^2.0.1",
     "request": "^2.83.0",
     "snyk": "^1.62.2",
     "supertest": "^3.0.0",
