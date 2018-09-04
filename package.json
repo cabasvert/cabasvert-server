@@ -57,7 +57,7 @@
     "pouchdb-find": "^6.4.1",
     "reflect-metadata": "^0.1.10",
     "uid-generator": "^1.0.0",
-    "winston": "^2.4.0"
+    "winston": "^3.0.1"
   },
   "devDependencies": {
     "@types/jasmine": "^2.8.2",
