@@ -35,7 +35,7 @@
     "@types/graceful-fs": "^4.1.2",
     "@types/helmet": "^0.0.37",
     "@types/morgan": "^1.7.35",
-    "@types/nodemailer": "^4.3.1",
+    "@types/nodemailer": "4.6.3",
     "@types/pouchdb": "^6.3.2",
     "@types/pouchdb-find": "^6.3.2",
     "@types/winston": "^2.3.7",
