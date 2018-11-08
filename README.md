@@ -1,3 +1,5 @@
+**This repository has been archived in favor of https://github.com/cabasvert/cabasvert.**
+
 # Cabas Vert server
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cabasvert/cabasvert-server.svg)](https://greenkeeper.io/)
